@@ -1,6 +1,6 @@
 import React from 'react'
 import { Contact } from '../../models/contacto.class'
-import ContactStatusComponent from '../container/contact-status';
+import ContactStatusComponent from '../pure/contact-status';
 
 const ContactComponent = () => {
 

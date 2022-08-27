@@ -1,6 +1,6 @@
 import './App.css'
 import TaskListComponent from './components/container/task_list'
-import ContactComponent from './components/pure/contact'
+import ContactComponent from './components/container/contact'
 
 function App() {
 
